@@ -12,7 +12,12 @@ img{
     max-width: 100%;
     height: auto;
 }
-
+/* p{
+    color:black;
+} */
+.profil{
+    color: white;
+}
 section{
 
     padding: 45px 0 80px 0;

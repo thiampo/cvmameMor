@@ -1,0 +1,10 @@
+import turle
+t=turle.Turtle()
+t.foward(100)
+t.right(90)
+t.foward(100)
+t.right(100)
+t.foward(100)
+t.right(90)
+t.forward(100)
+t.right(90)
